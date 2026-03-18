@@ -79,6 +79,9 @@ Run the program
 python ai.py
 ```
 
+<img width="512" height="361" alt="2" src="https://github.com/user-attachments/assets/eee70b35-79a1-4e09-a270-eb6abd1152cd" />
+
+
 Main menu
 
 ```
@@ -127,5 +130,14 @@ Project Page
 https://github.com/FBI0NINJA/wormgpt
 
 video
+https://c.top4top.io/m_3729i7gdd1.mp4
 
-soon
+https://d.top4top.io/m_37292xb182.mp4
+
+
+
+
+
+
+
+
