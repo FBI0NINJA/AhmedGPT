@@ -38,8 +38,8 @@ Before running the project make sure you have:
 Clone the repository
 
 ```bash
-git clone https://github.com/FBI0NINJA/wormgpt
-cd worm-gpt
+git clone https://github.com/FBI0NINJA/AhmedGPT
+cd AhmedGPT
 ```
 
 Run the program
