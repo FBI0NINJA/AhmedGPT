@@ -76,7 +76,7 @@ Or manually edit the configuration file:
 Run the program
 
 ```bash
-python wormgpt.py
+python ai.py
 ```
 
 Main menu
