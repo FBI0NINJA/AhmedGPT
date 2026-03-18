@@ -45,7 +45,7 @@ cd worm-gpt
 Run the program
 
 ```bash
-python wormgpt.py
+python ai.py
 ```
 
 ---
