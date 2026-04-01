@@ -1,4 +1,4 @@
-# AhmedGPT Ahmed Sayed — OpenRouter Edition
+# AhmedGPT Ahmed Sayed — OpenRouter Edition.
 
 AhmedGPT Ahmed Sayed is a simple terminal-based AI assistant that allows users to communicate with multiple AI models through OpenRouter.
 
